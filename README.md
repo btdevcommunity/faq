@@ -38,7 +38,7 @@ The community will remain as open-source welcoming any bhutanese willing to lear
  <a href="https://t.me/+0WfVhQysyQFiOTg1">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Bhutan Developer Community's Telegram Channel" />   
  </a>
- <a target="_blank" href="https://github.com/BTDeveloperCommunity">
+ <a target="_blank" href="https://github.com/btdevcommunity">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Bhutan Developer Community's GitHub" />     
  </a>
  <a target="_blank" href="mailto:btdevelopercommunity@gmail.com">
