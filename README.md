@@ -10,15 +10,16 @@
  
 <!--  Don't write above this -->
 
+
 <!-- Start Writing here -->
 
 ## 1. Why open-source?
 
 The community will remain as open-source welcoming any bhutanese willing to learn and grow together and to contribute in development of open-source projects. Open source projects are open to anybody who wants to contribute and improve the project, the community members will be able to contribute despite where they are based in adding new features and tackling errors unlike traditional form of project development where the team is blamed/reported if there are any issue with the system. Open soure projects makes communication easier, usage of version control system such as Git, project management, documentations and leadership.
 
-<br/>
-
 <!-- Dont write anything below this -->
+
+<br/>
 
 #
  
